@@ -24,7 +24,7 @@ A simple e-commerce frontend application built with React that displays products
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Fake_Store_API.git
+   git clone https://github.com/skynetdev123/Fake_Store_API.git
    cd Fake_Store_API
    ```
 
